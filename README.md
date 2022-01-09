@@ -59,29 +59,7 @@ ANTI-REQUISITE	NA
 
 ## Lesson Plan
 
-Unit Number	Experiment Number	Experiment Name	Text/Reference Books	Pedagogical Tools	Mapped with CO Number
-1	1	To numerically generate continuous time standard signals required for analyzing the LTI systems.	T-Signals and Systems,R-Signals and Systems	Infographics Practical,Simulation Practical,Video Demonstration	CO1
-	2	To numerically compute Elementary Operations like superposition, temporal shifting and scaling on continuous time signals.	T-Signals and Systems,R-Signals and Systems	Infographics Practical,Simulation Practical,Video Demonstration	CO1
-	3	To numerically generate discrete  time standard signals required for analyzing the LTI systems.	T-Signals and Systems,R-Signals and Systems	Infographics Practical,Simulation Practical,Video Demonstration	CO1
-	4	To numerically compute Elementary Operations like superposition, shifting and flipping  on discrete time signals.	T-Signals and Systems,R-Signals and Systems	Infographics Practical,Simulation Practical,Video Demonstration	CO1
-2	5	"To numerically compute the Characterization of Systems in the Time Domain using following operation: Impulse Response
-Convolution
-Step Response
-Eigenfunctions and the Transfer Function"	T-Signals and Systems,R-Signals and Systems	Infographics Practical,Simulation Practical,Video Demonstration	CO1,CO2
-	6	"To numerically compute the Characterization of Systems in the frequency  Domain using following operation:The Transfer Function
-The Bode Plot
-Phase and Group Delay
-Combination of Systems"	T-Signals and Systems,R-Signals and Systems	Infographics Practical,Simulation Practical,Video Demonstration	CO1,CO3
-	7	"To numerically compute the following  Properties of LTI-Systems The Transfer Function
-Causality and Stability
-Classes of Systems
-Idealized Systems"	T-Signals and Systems,R-Signals and Systems	Infographics Practical,Simulation Practical,Video Demonstration	CO1,CO2,CO3,CO4
-3	8	To numerically compute the fourier transform of a  pulse train and plot its frequency spectrum	T-Signals and Systems,R-Signals and Systems	Infographics Practical,Simulation Practical,Video Demonstration	CO1,CO3,CO4
-	9	To numerically perform the Convolution of an Audio Signal with a Room Impulse Response	T-Signals and Systems,R-Signals and Systems	Infographics Practical,Simulation Practical,Video Demonstration	CO1,CO2,CO3,CO4,CO5
-	10	To numerically perform the signal analysis of a Damped Spring Pendulum	T-Signals and Systems,R-Signals and Systems	Infographics Practical,Simulation Practical,Video Demonstration	CO1,CO2,CO3,CO4,CO5
-![image](https://user-images.githubusercontent.com/61932746/148698414-493cd225-5b1f-465a-be18-ac7b59c2f662.png)
-
-
+[Here](https://github.com/ChandigarhUniv/MECHATRONICS-EVEN2022-SIGNALS-SYSTEMS-LABORATORY--20MTP-267/blob/main/Gallery/SAS%20LAB%20PLAN.txt)
 
 ## Textbooks / Reference Books – 
 
@@ -119,4 +97,4 @@ Mapping CO's Vs PO's/PSO's need to be provided wherever it is appropriate. The c
 > Substantial (Map it with 3 correlation when the above-mentioned parameters are strongly influencing in students learning).
 
 **If there is no correlation, put "NA"**
-![Mapping Chart](https://github.com/ChandigarhUniv/MECHATRONICS-EVEN2022-SIGNALS-SYSTEMS--20MTT-261-/blob/main/Gallery/co-po%20sas.PNG)
+![Mapping Chart](https://github.com/ChandigarhUniv/MECHATRONICS-EVEN2022-SIGNALS-SYSTEMS-LABORATORY--20MTP-267/blob/main/Gallery/co-po%20sas%20lab.PNG)
