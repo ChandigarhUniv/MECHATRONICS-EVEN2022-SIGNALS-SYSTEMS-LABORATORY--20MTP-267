@@ -1,20 +1,20 @@
-# MECHATRONICS-EVEN2022-SIGNALS & SYSTEMS--20MTT-261
+# MECHATRONICS-EVEN2022-SIGNALS & SYSTEMS LAB--20MTP-267
 
-> This is a fourth semester course to be offered to students of Department of Mechatronics Engineering, Chandigarh University in EVEN2022 term.
+> This is a fourth semester laboratory course to be offered to students of Department of Mechatronics Engineering, Chandigarh University in EVEN2022 term.
 
 Program-Code-ME204,205 | Signals and Systems ()
 ------------------------------------
-L	| T |	P |	CH per week	Course Type
+L | T |	P | C | CH per week	Course Type
 ------------------------------------
-3 | 0 |	0 |	3 |	Core
+0 | 0 |	2 | 1 | 2 |	Core
 --------------------------------------------
-PRE-REQUISITE	NA
-CO-REQUISITE	NA
+PRE-REQUISITE	MTY-235
+CO-REQUISITE	MTT-261
 ANTI-REQUISITE	NA
 ------------------------------------------
 
 ## Course Description 
-– Course aim to enhance the basic skills related to signal and systems
+– Course aim to enhance the computational programming skills related to signal and systems which are required to Construct the Continuous and Discrete Time systems using various transfroms.
 
 ## Course Objectives 
 - Understanding the fundamental characteristics of signals and systems.  
@@ -23,39 +23,38 @@ ANTI-REQUISITE	NA
 
 ## Course Outcomes
 
-- CO1	The student will be able to Interpret the signals in various forms for analysis
-- CO2	The student will be able to Obtain Fourier analysis of continuous time and discrete time signals
-- CO3	The student will be able to analyse LTI system response
-- CO4	The student will be able to synthesis LTI system response
-- CO5	The student will be able to Construct the Continuous and Discrete Time systems using various transfroms.
+- CO1	The student will be able to numericaly generate the signals in various forms for computational analysis
+- CO2	The student will be able to numericaly analyze continuous time and discrete time fourier transforms.
+- CO3	The student will be able to numericaly analyze the LTI system response
+- CO4	The student will be able to analytically and numericaly synthesize signal and system problems.
+- CO5	The student will be able to develop computational algorithms to construct the Continuous and Discrete Time systems using various transfroms.
 
 ## Syllabus
 
-### Unit-1	Mathematical Preliminaries, Types of Signals and Transformations
-	
-#### Contact Hours: 16
-	Numbers	Sinosoids & Phasors	Limits and continuity	Differentiation and Integration	L-Hospital's relation	I/O relation of RLC-circuit	Unit-step and delta functions
-
-	IContinuous & Discrete Time Signals	Even and Odd Signals	Orthogonality	Shifting and scaling in Continuous time	Shifting and scaling in Discrete time	Signal and Noise	Signal in the physical world	Signal & Sensing perception
-
-### Unit-2	Fourier Transform of Continuous-Time Signals, Fourier Series of Continuous-Time Periodic Signals and Properties
-
-#### Contact Hours: 16
-	Frequency domain Representation	Fourier Transform	Fourier transform : Exammple -I	Drichlet conditions	Inverse Fourier transformFourier transform : Exammple-II	FT Uncertainity Relation
-	FT: Time shifting & time scaling	FT-Derrivative property	FT: Multiplication & Convolution property	FT: Integral property	Fourier transform : Exammple-III	Fourier transform : Exammple-IV	Fourier transform of Noise
-	Fourier transform of periodic signals	Fourier Series representation in continuous time	Fourier series properties - I	Fourier series properties - II	LTI system response for periodic input signal	Fourier Series in in continuous time: Example-I	Fourier Series in in continuous time: Example-II
-	Discrete Time Convulution sum	Discrete Time Examples & propertie	LCCDE representation of discrete time LTI systems	Impulse train sampling	Re-construction of continuous time signal	Nyquist sampling theorem & Aliasing
-	
-### Unit-3	Laplace Transform, Laplace Transform Properties, LTI Systems, Convolution and LTI System Properties
-	
-#### Contact Hours: 16
-	FT in Complex frequency domain	Laplace transforms(LT): Poles & Zeros	LT: Region of convergence	LT: Example I	LT: Example II	Laplace analysis of LTI systems	Laplace Analysis of RLC circuits
-	Laplace transforms(LT): Linearity, shifting & Scaling	Laplace transforms(LT): Derrivative & Integral	Laplace transforms(LT): Causality & Stability	Laplace Analysis of an LTI system 	Laplace analysis of LTI systems: Example-I	Laplace analysis of LTI systems: Example-II	Laplace Analysis of First Order RLC circuits	Laplace Analysis of Second Order RLC circuits
-
-	Introduction, representation of a continuous time signal by its samples: the sampling theorem, reconstruction of a signal from its samples using interpolation, the effect of under sampling: Aliasing, discrete time processing of continuous time signals, sampling of discrete time signals.
-	Continuous Time: Convolutional Integral	Continuous Time: Convolutional Integral Example-I	Continuous Time: Convolutional Integral Example-II	Continuous Time: Convolutional Integral Example-III	LTI Systems: commutative, distributive & Associative	LTI Systems: Memoryless & Invertibility	LTI Systems: Causality & Stability
-	*A mini-project/case-study/research article implementation solving complex problem*
-
+### Unit-1
+1. To numerically generate continuous time standard signals required for analyzing the LTI systems.
+2. To numerically compute Elementary Operations like superposition, temporal shifting and scaling on continuous time signals.
+3. To numerically generate discrete  time standard signals required for analyzing the LTI systems.
+4. To numerically compute Elementary Operations like superposition, shifting and flipping  on discrete time signals.
+### Unit-2
+5. To numerically compute the Characterization of Systems in the Time Domain using following operation: Impulse Response
+- Convolution
+- Step Response
+- Eigenfunctions and the Transfer Function"
+6. To numerically compute the Characterization of Systems in the frequency  Domain using following operation:
+- The Transfer Function
+- The Bode Plot
+- Phase and Group Delay
+- Combination of Systems
+7. To numerically compute the following  Properties of LTI-Systems 
+- The Transfer Function
+- Causality and Stability
+- Classes of Systems
+- Idealized Systems
+### Unit-3
+8. To numerically compute the fourier transform of a  pulse train and plot its frequency spectrum
+9. To numerically perform the Convolution of an Audio Signal with a Room Impulse Response
+10. To numerically perform the signal analysis of a Damped Spring Pendulum
 
 
 ## Lesson Plan
@@ -71,9 +70,18 @@ ANTI-REQUISITE	NA
 - Simon Haykin , Signal and Systems, Wiley student edition, 1997, 7th reprint. \
 - S Salivahanan, A. Vallavaraj, C. Gnanapriya , Digital Signal Processing, McGraw Hill International, 2001 ed.
 
+[REFERENCE JUPYTERNOTEBOOKS](https://nbviewer.org/github/spatialaudio/signals-and-systems-lecture/blob/master/index.ipynb)
+
 ## Assessment Pattern - Internal and External
 
 
+SrNo	|    Assessment Name	|   Exam Name	        |  Max Marks
+--------|-----------------------|-----------------------|------------
+1-10	|    20PRAC01	        |   Experiment-1 TO 10  |  20 [EACH]
+11	|    20PRAC01		|   Mid-Term Test       |  20
+12	|    20PRAC01		|   Discussion Forum / Short Assignment / Portfolio	| 4
+13	|    20PRAC01		|   Attendance and BB Engagement Score	| 4
+--------|-----------------------|-----------------------|------------
 ## CO-PO Mapping
 
 ### Instructions for Mapping:
