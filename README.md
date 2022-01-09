@@ -59,7 +59,7 @@ ANTI-REQUISITE	NA
 
 ## Lesson Plan
 
-[Here](https://github.com/ChandigarhUniv/MECHATRONICS-EVEN2022-SIGNALS-SYSTEMS-LABORATORY--20MTP-267/blob/main/Gallery/SAS%20LAB%20PLAN.txt)
+[Here](https://github.com/ChandigarhUniv/MECHATRONICS-EVEN2022-SIGNALS-SYSTEMS-LABORATORY--20MTP-267/blob/main/Gallery/SAS%20LAB%20PLAN.pdf)
 
 ## Textbooks / Reference Books – 
 
