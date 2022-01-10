@@ -69,7 +69,9 @@ ANTI-REQUISITE	NA
 - Simon Haykin , Signal and Systems, Wiley student edition, 1997, 7th reprint. \
 - S Salivahanan, A. Vallavaraj, C. Gnanapriya , Digital Signal Processing, McGraw Hill International, 2001 ed.
 
-[REFERENCE JUPYTERNOTEBOOKS](https://nbviewer.org/github/spatialaudio/signals-and-systems-lecture/blob/master/index.ipynb)
+### [REFERENCE MANUAL v2022 - JUPYTERNOTEBOOKS](https://nbviewer.org/github/spatialaudio/signals-and-systems-lecture/blob/master/index.ipynb)
+
+### [REFERENCE MANUAL v2021 - MATLAB](https://github.com/ChandigarhUniv/MECHATRONICS-EVEN2022-SIGNALS-SYSTEMS-LABORATORY--20MTP-267/blob/main/Gallery/S_S_Lab_Handout_v2021.pdf)
 
 ## Assessment Pattern - Internal and External
 
@@ -98,3 +100,4 @@ Mapping CO's Vs PO's/PSO's need to be provided wherever it is appropriate. The c
 
 **If there is no correlation, put "NA"**
 ![Mapping Chart](https://github.com/ChandigarhUniv/MECHATRONICS-EVEN2022-SIGNALS-SYSTEMS-LABORATORY--20MTP-267/blob/main/Gallery/co-po%20sas%20lab.PNG)
+
