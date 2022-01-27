@@ -1,6 +1,6 @@
 # MECHATRONICS-EVEN2022-SIGNALS & SYSTEMS LAB--20MTP-267
 
-[![](https://github.com/ChandigarhUniv/MECHATRONICS-EVEN2022-SIGNALS-SYSTEMS-LABORATORY--20MTP-267/blob/main/Gallery/SAS_INTRO2.PNG)](https://drive.google.com/file/d/1qwXqYMw2ztEwyFnDwwwOb92UGf2IG4LR/view?usp=sharing)
+📹[![](https://github.com/ChandigarhUniv/MECHATRONICS-EVEN2022-SIGNALS-SYSTEMS-LABORATORY--20MTP-267/blob/main/Gallery/SAS_INTRO2.PNG)](https://drive.google.com/file/d/1qwXqYMw2ztEwyFnDwwwOb92UGf2IG4LR/view?usp=sharing)
 
 > This is a fourth semester laboratory course offered to students of Department of Mechatronics Engineering, Chandigarh University in EVEN2022 term.
 
@@ -34,7 +34,15 @@ ANTI-REQUISITE	NA
 ## Syllabus
 
 ### Unit-1
-[![Let us start with fundamentals](https://github.com/ChandigarhUniv/MECHATRONICS-EVEN2022-SIGNALS-SYSTEMS-LABORATORY--20MTP-267/blob/main/Gallery/SAS_UNIT-1.PNG)](https://drive.google.com/file/d/17wJgBE5qNEylZHfJ-4UZ-wXYwxP1_lWz/view?usp=sharing)
+
+#### Let us start with SIGNALS fundamentals 📹
+[![](https://github.com/ChandigarhUniv/MECHATRONICS-EVEN2022-SIGNALS-SYSTEMS-LABORATORY--20MTP-267/blob/main/Gallery/SAS_UNIT-1.PNG)](https://drive.google.com/file/d/17wJgBE5qNEylZHfJ-4UZ-wXYwxP1_lWz/view?usp=sharing)
+
+#### Let us start with SYSTEM fundamentals 📹
+[![](https://github.com/ChandigarhUniv/MECHATRONICS-EVEN2022-SIGNALS-SYSTEMS-LABORATORY--20MTP-267/blob/main/Gallery/SAS_UNIT-1.PNG)](
+https://drive.google.com/file/d/1eKcQqM3OMPLUJ0g-bf89s-wsEh57PbUJ/view?usp=sharing)
+
+
 1. To numerically generate continuous time standard signals required for analyzing the LTI systems.
 2. To numerically compute Elementary Operations like superposition, temporal shifting and scaling on continuous time signals.
 3. To numerically generate discrete  time standard signals required for analyzing the LTI systems.
