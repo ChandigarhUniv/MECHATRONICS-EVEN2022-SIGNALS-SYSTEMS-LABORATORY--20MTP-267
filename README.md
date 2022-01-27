@@ -1,6 +1,6 @@
 # MECHATRONICS-EVEN2022-SIGNALS & SYSTEMS LAB--20MTP-267
 
-[![](https://github.com/ChandigarhUniv/MECHATRONICS-EVEN2022-SIGNALS-SYSTEMS-LABORATORY--20MTP-267/blob/main/Gallery/SAS_INTRO.PNG)](https://drive.google.com/file/d/1qwXqYMw2ztEwyFnDwwwOb92UGf2IG4LR/view?usp=sharing)
+[![](https://github.com/ChandigarhUniv/MECHATRONICS-EVEN2022-SIGNALS-SYSTEMS-LABORATORY--20MTP-267/blob/main/Gallery/SAS_INTRO2.PNG)](https://drive.google.com/file/d/1qwXqYMw2ztEwyFnDwwwOb92UGf2IG4LR/view?usp=sharing)
 
 > This is a fourth semester laboratory course offered to students of Department of Mechatronics Engineering, Chandigarh University in EVEN2022 term.
 
@@ -73,6 +73,8 @@ ANTI-REQUISITE	NA
 - S Salivahanan, A. Vallavaraj, C. Gnanapriya , Digital Signal Processing, McGraw Hill International, 2001 ed.
 
 ### [REFERENCE MANUAL v2022 - JUPYTERNOTEBOOKS](https://nbviewer.org/github/spatialaudio/signals-and-systems-lecture/blob/master/index.ipynb)
+
+[![Setting the Simulation Environment](https://github.com/ChandigarhUniv/MECHATRONICS-EVEN2022-SIGNALS-SYSTEMS-LABORATORY--20MTP-267/blob/main/Gallery/SAS_INTRO.PNG)](https://drive.google.com/file/d/1Z5Y3BdA0BdH3JEQKHDD8nYvBIrb_ZOGb/view?usp=sharing)
 
 ### [REFERENCE MANUAL v2021 - MATLAB](https://github.com/ChandigarhUniv/MECHATRONICS-EVEN2022-SIGNALS-SYSTEMS-LABORATORY--20MTP-267/blob/main/Gallery/S_S_Lab_Handout_v2021.pdf)
 
